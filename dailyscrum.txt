@@ -1,0 +1,277 @@
+2021/10/22 Everyone (The first Daily Scrum) 
+To do until next Scrum:
+- setup the initial project
+- create user stories in Trello and start splitting them into TODOs
+- watch PHP course videos
+- finish the poject description
+- setup the database
+
+2021/10/25 Yuan
+1. Done / not done since last scrum:
+- finished setup the initial project
+- created user stories in Trello and start splitting them into TODOs
+- reviewed PHP course videos
+- finished the poject proposal
+- did not setup the database
+2. To do until next Scrum:
+- finish the project description
+- watch PHP course videos
+- setup the database
+3. Need assistance / figure things out
+- need group discussion to decide database design
+- find out how to use charts in HTML5 
+
+2021/10/25  Guixia
+1. Done since last scrum
+- setup 3 tables in database, users, waitinglist, children
+- finish parent account register, add parent to users table and add their childern to waitinglist table
+2. Plan until next Scrum
+- user login
+- admin check user list
+3. Need assistance / figure things out
+- teacher's video for admin
+
+2021/10/25  Hong Lin
+1. Done since last scrum
+-finished setup the initial project
+2.reviewed project proposal
+-make sure the project currect goal 
+-reviewed project basic code
+3. Need assistance / figure things out
+-  discussion to decide database  table 
+- need to review video for project
+
+2021/10/26 Yuan
+1. Done since last scrum:
+- reviewed PHP course videos
+- finished the poject description
+- finished the database design
+2. To do until next Scrum:
+- watch PHP course videos
+- setup the database
+- insert records into childern table
+3. Need assistance / figure things out
+- need watch teacher's video for admin
+
+2021/10/26 Guixia
+1. Done since last scrum:
+- finish login and admin list 
+- finish admin waitinglist view
+2. To do until next Scrum:
+- action in waitinglist table in admin account
+- watch teacher's video
+3. Need assistance / figure things out
+- host server not found, need teacher's help 
+
+2021/10/26  Hong Lin
+1. Done since last scrum
+-review the video for hosting 
+2.To do until next Scrum:
+-insert database by local DB
+-write some project code 
+3. Need assistance / figure things out
+-  find out the problme about local hosting problme
+- need continue to review video for project
+
+2021/10/27 Yuan
+1. Done since last scrum:
+- created three tables: groups, childnots, and attendance and linked them to other tables
+- inserted mockup records into each table
+2. To do until next Scrum:
+- watch PHP course videos
+- try to create parent dashboard and functions
+3. Need assistance / figure things out
+- need watch teacher's videos
+
+2021/10/27 Guixia
+1. Done since last scrum:
+- finish delete action in waitinglist table in admin account
+- almost done home page
+2. To do until next Scrum:
+- add child from waitinglist to child table
+- attendance table
+3. Need assistance / figure things out
+- watch teacher's videos
+
+2021/10/27 Hong Lin
+1. Done since last scrum:
+- create  educator basic board , basic cold child list.
+2. To do until next Scrum:
+- try to do functions of attendance 
+- continue to watch PHP course video
+3. Need assistance / figure things out
+- discussion with group how to fix the time of attendance.
+
+2021/10/28 Yuan
+1. Done since last scrum:
+- modified attendance table 
+- inserted mockup records into each table
+2. To do until next Scrum:
+- watch PHP course videos
+- try to create parent dashboard and functions
+3. Need assistance / figure things out
+- need review teacher's videos
+
+2021/10/28 Guixia
+1. Done since last scrum:
+- finish add child from waitinglist to child table 
+- modify waitinglist delete function fixed some problems
+2. To do until next Scrum:
+- teachers attendance action
+- children table edit and delete actions
+3. Need assistance / figure things out
+- understand API
+
+2021/10/28 Hong Lin
+1. Done since last scrum:
+- create childnotes table
+- update educator files 
+2. To do until next Scrum:
+- childern attendance post action
+- childern post action
+3. Need assistance / figure things out
+- review videos and continue to discuss problems.
+-fix some problme.
+2021/10/29 Yuan
+1. Done since last scrum:
+- created three templates: parent_board, viewchildnote, and modifyparentinfo
+2. To do until next Scrum:
+- watch PHP course videos
+- view child's note function
+3. Need assistance / figure things out
+- fix path problem
+- need review teacher's videos
+
+2021/10/29 Guixia
+1. Done since last scrum:
+- finish teachers attendance action
+- finish the view childrenlist in different class 
+2. To do until next Scrum:
+- add pagination in the children list
+- group list, children attendance in different class
+- add action in the childrenlist
+3. Need assistance / figure things out
+- API
+
+-2021/10/29 Hong Lin
+1. Done since last scrum:
+-  implemented class groupList
+-  modified attenance table
+2. To do until next Scrum:
+- childern attendance time function
+- childernnotes function
+3. Need assistance / figure things out
+- review videos.
+- sovle problems.
+
+-2021/10/30 Hong Lin
+1. Done since last scrum:
+-  modified childnotes table
+2. To do until next Scrum:
+- childern attendance time function
+- childnotes list function
+3. Need assistance / figure things out
+- review videos.
+- sovle problems.
+
+2021/10/30 Yuan
+1. Done since last scrum:
+- finished view child's note function
+2. To do until next scrum:
+- modify child information function
+3. Need assistance / figure things out
+- need watch teacher's reuse videos
+
+2021/10/31 Guixia
+1. Done since last scrum:
+- finish pagination in the children list
+- finish view of userlist
+2. To do until next scrum:
+- try to finish userlist action, childern list action
+3. Need assistance / figure things out
+- API
+2021/10/29 Yuan
+1. Done since last scrum:
+- created three templates: parent_board, viewchildnote, and modifyparentinfo
+2. To do until next Scrum:
+- watch PHP course videos
+- view child's note function
+3. Need assistance / figure things out
+- fix path problem
+- need review teacher's videos
+
+2021/10/29 Guixia
+1. Done since last scrum:
+- finish teachers attendance action
+- finish the view childrenlist in different class 
+2. To do until next Scrum:
+- add pagination in the children list
+- group list, children attendance in different class
+- add action in the childrenlist
+3. Need assistance / figure things out
+- API
+
+-2021/10/29 Hong Lin
+1. Done since last scrum:
+-  implemented class groupList
+-  modified attenance table
+2. To do until next Scrum:
+- childern attendance time function
+- childernnotes function
+3. Need assistance / figure things out
+- review videos.
+- sovle problems.
+
+-2021/10/30 Hong Lin
+1. Done since last scrum:
+-  modified childnotes table
+2. To do until next Scrum:
+- childern attendance time function
+- childnotes list function
+3. Need assistance / figure things out
+- review videos.
+- sovle problems.
+
+2021/10/30 Yuan
+1. Done since last scrum:
+- finished view child's note function
+2. To do until next scrum:
+- modify child information function
+3. Need assistance / figure things out
+- need watch teacher's reuse videos
+
+2021/10/31 Guixia
+1. Done since last scrum:
+- finish pagination in the children list
+- finish view of userlist
+2. To do until next scrum:
+- try to finish userlist action, childern list action
+3. Need assistance / figure things out
+- API
+
+2021/11/01 Yuan
+1. Done since last scrum:
+- finished modify child information template
+2. To do until next scrum:
+- impliment modify child information function (edit)
+- continue watching teacher's reuse videos
+3. Need assistance / figure things out
+- need watch teacher's reuse videos
+
+2021/11/01 Guixia
+1. Done since last scrum:
+- finished userlist action
+2. To do until next scrum:
+- children attendance
+- continue watching teacher's reuse videos
+3. Need assistance / figure things out
+- need watch teacher's reuse videos
+
+-2021/11/02 Hong Lin
+1. Done since last scrum:
+-  modified childnotes upload photo 
+2. To do until next Scrum:
+- child attenance chink in and check out function.
+= watch video
+3. Need assistance / figure things out
+- fix photo validation and showing problem.
